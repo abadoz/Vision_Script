@@ -1,0 +1,5 @@
+Let foo = 2;
+If : foo = 4;:
+Print:foo;  ;
+Else: 
+Print:"Hello world; ;
