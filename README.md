@@ -26,3 +26,4 @@ My name is Abdulrahman Zakkar. I'm 12 years old and from Syria and living in the
 
 ##### Deno install link: https://deno.com or https://docs.deno.com/runtime/manual
 
+Copyright (c) 2024 Abdulrahman Zakkar
